@@ -50,7 +50,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'Recneger.urls'
+ROOT_URLCONF = 'Eneger.urls'
 
 TEMPLATES = [
     {
@@ -68,7 +68,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'Recneger.wsgi.application'
+WSGI_APPLICATION = 'Eneger.wsgi.application'
 
 
 # Database
